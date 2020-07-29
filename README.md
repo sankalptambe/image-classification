@@ -1,2 +1,1 @@
-# image-classification
-Image Classification on MNIST dataset
+# Image Classification on MNIST dataset
